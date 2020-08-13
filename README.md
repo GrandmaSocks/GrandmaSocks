@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/GrandmaSocks](https://github.com/GrandmaSocks)
 
-- 💬 Ask me about **C++, HTML, CSS**
+- 💬 Ask me about **C++, HTML, CSS, JAVASCRIPT **
 
 - 📫 How to reach me **grandmabuisness@gmail.com**
 
