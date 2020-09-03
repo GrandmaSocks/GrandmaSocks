@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm GrandmaSocks</h1>
 <h3 align="center">A developer from California</h3>
 
-- 🔭 I’m currently working on **ConsolePlus a C++ Library, An incremental game with a twist (:, and a Twitter Clone**
+- 🔭 I’m currently working on **ConsolePlus a C++ Library and a C# Application that generates a folder with all files required to start coding your website**
 
 - 🌱 I’m currently learning **web development**
 
