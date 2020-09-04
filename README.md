@@ -3,10 +3,6 @@
 
 - 🔭 I’m currently working on **ConsolePlus a C++ Library and a C# Application that generates a folder with all files required to start coding your website**
 
-- 🌱 I’m currently learning **web development**
-
-- 👨‍💻 All of my projects are available at [https://github.com/GrandmaSocks](https://github.com/GrandmaSocks)
-
 - 💬 Ask me about  **C++, HTML, CSS, JavaScript**
 
 - 📫 How to reach me **grandmabuisness@gmail.com**
