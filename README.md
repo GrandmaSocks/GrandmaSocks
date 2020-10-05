@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm GrandmaSocks</h1>
 <h3 align="center">A developer from California</h3>
 
--  🚨 I'm creating personal websites for cheap on Fiverr **https://www.fiverr.com/share/71KdaW**
-
 - 🔭 I’m currently working on **ConsolePlus a C++ Library**
 
 - 💬 Ask me about  **C++, HTML, CSS, JavaScript**
