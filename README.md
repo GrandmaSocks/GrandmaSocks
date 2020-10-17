@@ -8,5 +8,3 @@
 - 📫 How to reach me **grandmabuisness@gmail.com**
 
 - 💻 My website **https://grandmasocks.netlify.app/**
-
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=grandmasocks&layout=compact&hide=html" alt="grandmasocks" />
